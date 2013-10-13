@@ -1,0 +1,46 @@
+body {
+	margin:0;
+	font-family:"Courier New";
+}
+
+#rightcont {
+	float:left;
+}
+
+#leftcont{
+	float:left;
+	width:50%;
+}
+
+#left,#right,#table,#buttons {
+	margin:10px;
+	border:black;
+	padding: 1em;
+}
+
+#left{
+	background-color: lightcoral;
+}
+
+#right{
+	background-color:lightblue;
+	margin-left: 0;
+}
+
+#table{
+	background-color: lightgreen;
+}
+
+#buttons{
+	background-color: palegoldenrod
+}
+
+textarea{
+	width:99%;
+	height:120px;
+	resize: vertical;
+}
+
+#working{
+	height:300px;
+}
