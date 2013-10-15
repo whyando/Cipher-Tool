@@ -28,11 +28,11 @@ body {
 }
 
 #table{
-	background-color: lightgreen;
+	background-color: palegoldenrod;
 }
 
 #buttons{
-	background-color: palegoldenrod
+	background-color: palegreen
 }
 
 textarea{
@@ -43,4 +43,18 @@ textarea{
 
 #working{
 	height:300px;
+}
+
+/*.highlight {
+    border-radius: 0.5em;
+    padding: 0 3px;
+    margin: 0 -3px;
+}*/
+
+.locked{
+	color: red;
+}
+
+.strikethrough{
+	text-decoration:line-through;
 }
